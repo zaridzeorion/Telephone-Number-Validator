@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/telephone-number-validator/static/css/main.98d4c4ce.chunk.css",
+    "main.js": "/telephone-number-validator/static/js/main.c4c43e9c.chunk.js",
+    "main.js.map": "/telephone-number-validator/static/js/main.c4c43e9c.chunk.js.map",
+    "runtime-main.js": "/telephone-number-validator/static/js/runtime-main.7b54993e.js",
+    "runtime-main.js.map": "/telephone-number-validator/static/js/runtime-main.7b54993e.js.map",
+    "static/js/2.50b871ec.chunk.js": "/telephone-number-validator/static/js/2.50b871ec.chunk.js",
+    "static/js/2.50b871ec.chunk.js.map": "/telephone-number-validator/static/js/2.50b871ec.chunk.js.map",
+    "index.html": "/telephone-number-validator/index.html",
+    "static/css/main.98d4c4ce.chunk.css.map": "/telephone-number-validator/static/css/main.98d4c4ce.chunk.css.map",
+    "static/js/2.50b871ec.chunk.js.LICENSE.txt": "/telephone-number-validator/static/js/2.50b871ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b54993e.js",
+    "static/js/2.50b871ec.chunk.js",
+    "static/css/main.98d4c4ce.chunk.css",
+    "static/js/main.c4c43e9c.chunk.js"
+  ]
+}
